@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jun 27 23:00:31 CST 2016
+https\://repo.maven.apache.org/maven2/.lastUpdated=1467039631193
+http\://www.myhost.com/maven/jdk17/.error=Could not transfer artifact org.apache\:apache\:pom\:15 from/to jdk17 (http\://www.myhost.com/maven/jdk17)\: www.myhost.com
+@default-jdk17-http\://www.myhost.com/maven/jdk17/.lastUpdated=1467039630626

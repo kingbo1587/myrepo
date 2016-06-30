@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri May 27 14:08:45 CST 2016
+https\://repo.maven.apache.org/maven2/.lastUpdated=1464329325249
+http\://www.myhost.com/maven/jdk17/.error=Could not transfer artifact org.aspectj\:aspectjrt\:pom\:1.8.2 from/to jdk17 (http\://www.myhost.com/maven/jdk17)\: www.myhost.com
+@default-jdk17-http\://www.myhost.com/maven/jdk17/.lastUpdated=1464329324690

@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Aug 07 09:29:00 CST 2015
+http\://repo.maven.apache.org/maven2/.lastUpdated=1438910940450
+default-http\://www.myhost.com/maven/jdk17/.lastUpdated=1438910934313
+http\://www.myhost.com/maven/jdk17/.error=Could not transfer artifact com.alibaba\:druid\:jar\:sources\:1.0.15 from/to jdk17 (http\://www.myhost.com/maven/jdk17)\: null to http\://www.myhost.com/maven/jdk17/com/alibaba/druid/1.0.15/druid-1.0.15-sources.jar

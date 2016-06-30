@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jun 22 15:01:47 CST 2016
+default-http\://www.myhost.com/maven/jdk17/.lastUpdated=1438821689324
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1438821869580
+https\://repo.maven.apache.org/maven2/.lastUpdated=1466578907345
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact commons-lang\:commons-lang\:jar\:sources\:2.6 from/to central (http\://repo.maven.apache.org/maven2)\: No response received after 60000
+http\://www.myhost.com/maven/jdk17/.error=Could not transfer artifact commons-lang\:commons-lang\:jar\:sources\:2.6 from/to jdk17 (http\://www.myhost.com/maven/jdk17)\: null to http\://www.myhost.com/maven/jdk17/commons-lang/commons-lang/2.6/commons-lang-2.6-sources.jar

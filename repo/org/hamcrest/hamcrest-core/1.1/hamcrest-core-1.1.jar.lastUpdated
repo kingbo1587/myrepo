@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jul 14 15:23:40 CST 2015
+http\://192.168.2.247\:8080/nexus/content/groups/public/.error=Could not transfer artifact org.hamcrest\:hamcrest-core\:jar\:1.1 from/to local-nexus (http\://192.168.2.247\:8080/nexus/content/groups/public/)\: Connect to 192.168.2.247\:8080 [/192.168.2.247] failed\: Connection timed out\: connect
+@default-local-nexus-http\://192.168.2.247\:8080/nexus/content/groups/public/.lastUpdated=1436858620875

@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Oct 16 12:08:38 GMT+08:00 2015
+default-http\://www.myhost.com/maven/jdk17/.lastUpdated=1444968518325
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1444968518332
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework\:spring-framework-bom\:pom\:${spring.version} from/to central (http\://repo.maven.apache.org/maven2)\: Illegal character in path at index 78\: http\://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/${spring.version}/spring-framework-bom-${spring.version}.pom
+http\://www.myhost.com/maven/jdk17/.error=Could not transfer artifact org.springframework\:spring-framework-bom\:pom\:${spring.version} from/to jdk17 (http\://www.myhost.com/maven/jdk17)\: Illegal character in path at index 76\: http\://www.myhost.com/maven/jdk17/org/springframework/spring-framework-bom/${spring.version}/spring-framework-bom-${spring.version}.pom

@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jun 24 19:37:27 CST 2016
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1466768247304
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework.boot\:spring-boot-maven-plugin\:pom\:${spring.boot.version} from/to central (https\://repo.maven.apache.org/maven2)\: Illegal character in path at index 88\: https\://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/${spring.boot.version}/spring-boot-maven-plugin-${spring.boot.version}.pom

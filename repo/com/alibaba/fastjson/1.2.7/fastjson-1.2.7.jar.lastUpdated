@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Oct 16 12:07:06 GMT+08:00 2015
+http\://repo.maven.apache.org/maven2/.lastUpdated=1444968426247
+default-http\://www.myhost.com/maven/jdk17/.lastUpdated=1444968423454
+http\://www.myhost.com/maven/jdk17/.error=Could not transfer artifact com.alibaba\:fastjson\:jar\:1.2.7 from/to jdk17 (http\://www.myhost.com/maven/jdk17)\: null to http\://www.myhost.com/maven/jdk17/com/alibaba/fastjson/1.2.7/fastjson-1.2.7.jar
